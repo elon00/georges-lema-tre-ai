@@ -1,0 +1,14 @@
+{
+  "project": "georges-lema-tre-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Gc5VqjiNeE4LsjuCSJ5hiUtzGMvdSUX9TZUCQ6fXFyCu",
+  "vault_account": "35YX8fNSRJzXZhaevkGrdJSme8r6xsBVAnJAU8y85JgR",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4D9h8cd9MnVB5w4rnVW6gFsiM4nsTtLjVwdmFcWWz5nzPM91BCbsCiC261r5iZg1iMptbCicg1MFhNT1LH8CSKuz",
+  "account_tx": "4PQjSHeCRBjUqmv43DMHLkcGzVb2JtNPS1x5TCvrNavrKyXknRs34F4Kdb4rox4J9sooRSmeQRHYo2NmcP4Qpd2J",
+  "mint_tx": "2hysUCrcYEE8vjKjgdg4GG5ywnw7subRvkmAgi8STmentoRevJcCTvxnSpobRT97kdWRVL1ksxrC77DdbVbovVHG",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Gc5VqjiNeE4LsjuCSJ5hiUtzGMvdSUX9TZUCQ6fXFyCu?cluster=devnet",
+  "timestamp": "2026-10-26 16:34:52 UTC"
+}
